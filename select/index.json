@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Feel It",
+  "base_artist": "d4vd",
+  "createdAt": "2026-02-21T02:05:18.103054Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Feel It Still",
+      "artist": "Portugal. The Man",
+      "has_synced": true,
+      "path": "select/01_Feel_It_Still_Portugal._The_Man.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Feel It Coming",
+      "artist": "The Weeknd feat. Daft Punk",
+      "has_synced": true,
+      "path": "select/02_I_Feel_It_Coming_The_Weeknd_feat._Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Feel It in the Morning",
+      "artist": "Rascal Flatts",
+      "has_synced": false,
+      "path": "select/03_Feel_It_in_the_Morning_Rascal_Flatts.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Feel It",
+      "artist": "Young Thug",
+      "has_synced": true,
+      "path": "select/04_Feel_It_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Feel It",
+      "artist": "Yellow Claw feat. Naaz",
+      "has_synced": true,
+      "path": "select/05_Feel_It_Yellow_Claw_feat._Naaz.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Feel It (feat. Naaz)",
+      "artist": "Yellow Claw",
+      "has_synced": true,
+      "path": "select/06_Feel_It_(feat._Naaz)_Yellow_Claw.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Feel It Out",
+      "artist": "Yaeji",
+      "has_synced": true,
+      "path": "select/07_Feel_It_Out_Yaeji.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Can You Feel It (Vocal)",
+      "artist": "Mr.Fingers",
+      "has_synced": false,
+      "path": "select/08_Can_You_Feel_It_(Vocal)_Mr.Fingers.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Can You Feel It",
+      "artist": "Mr. Fingers",
+      "has_synced": false,
+      "path": "select/09_Can_You_Feel_It_Mr._Fingers.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Can You Feel It - Single Version",
+      "artist": "The Jacksons",
+      "has_synced": true,
+      "path": "select/10_Can_You_Feel_It_-_Single_Version_The_Jacksons.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Feel It",
+      "artist": "Georgia",
+      "has_synced": false,
+      "path": "select/11_Feel_It_Georgia.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Feel It (feat. Cris Dinero & G.Wakai)",
+      "artist": "DJ Scheme feat. Cris Dinero & G.Wakai",
+      "has_synced": true,
+      "path": "select/12_Feel_It_(feat._Cris_Dinero_&_G.Wakai)_DJ_Scheme_feat._Cris_Dinero_&_G.Wakai.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Feel It",
+      "artist": "DJ Scheme",
+      "has_synced": true,
+      "path": "select/13_Feel_It_DJ_Scheme.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Do You Feel It? - 7 \"",
+      "artist": "ASH",
+      "has_synced": true,
+      "path": "select/14_Do_You_Feel_It__-_7_ASH.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Don't Fight It, Feel It",
+      "artist": "Primal Scream",
+      "has_synced": true,
+      "path": "select/15_Don't_Fight_It,_Feel_It_Primal_Scream.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Don't Fight It, Feel It - EMI Publishing Studio Mix",
+      "artist": "Primal Scream",
+      "has_synced": true,
+      "path": "select/16_Don't_Fight_It,_Feel_It_-_EMI_Publishing_Studio_Mix_Primal_Scream.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Feel It",
+      "artist": "Sigma",
+      "has_synced": false,
+      "path": "select/17_Feel_It_Sigma.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Feel It",
+      "artist": "d4vd",
+      "has_synced": false,
+      "path": "select/pl_01_Feel_It_d4vd.txt"
+    }
+  ]
+}
